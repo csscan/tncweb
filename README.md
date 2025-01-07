@@ -12,3 +12,4 @@ tnc-naip.weebly.com
 tnc-li.weebly.com
 tnc-mi.weebly.com
 tnc-sms.weebly.com
+tnc-data.weebly.com
